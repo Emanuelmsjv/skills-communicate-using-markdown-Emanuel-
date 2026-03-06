@@ -14,6 +14,6 @@ Here we should use symbold to document lists other than using characters
 3. is also Melwin
 
 ### Task
-- [ ] learn about github pages
+- [x] learn about github pages
 - [ ] learn about github blogs for blog ideas
 - [ ] covert my first blog page into actual webpage
